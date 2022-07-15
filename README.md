@@ -34,11 +34,13 @@ We have used K-Nearest Neighbor algorithm (KNN) to get the 10 nearest neighbors 
 # Function getting similar movies
 We implemented “get_movie_recommendation” function which takes the entered movie name by user and it checks if it is a substring of any movie title in “title” column in our dataset then it appends all matching results into “movie_list”. If the list is empty, it will display to the user that the movie is not found. In case there is one matching result only, the 10 most similar movies will be displayed with their distances to the required movie. Otherwise, it displays the matching results with their indices to the user. The user picks the required movie by entering the movie’s index then the function displays the 10 most similar movies with their distances. Inside the function, we also print both mean and standard deviation of distances between results and the required movie. We also print the percentage of distances which are less than 0.4 (near movies).   
 *Note: the matching process is done without considering case sensitivity.*  
-# Sample Test Cases
-First test case: getting the 10 most similar movies to “Iron Man” movie  
+# Sample Test Case
+Getting the 10 most similar movies to “Iron Man” movie  
 STEP1: Displaying the matching results to let the user pick the required movie  
 ![image](https://user-images.githubusercontent.com/64103395/179246677-ed9fda0d-f483-43c6-8be7-5e42f0cf86b2.png)  
-STEP2: Displaying 10 most similar movies for “Iron Man” based on the user's rating   
+STEP2: Displaying the 10 most similar movies for “Iron Man” based on the user's rating   
 ![image](https://user-images.githubusercontent.com/64103395/179246888-52ee0f0d-9ff8-47bb-b978-d608e18b0e3f.png)  
-STEP3: Displaying a bar graph of the distances of these movies  
+STEP3: Displaying mean and standard deviation of distances between results and "Iron Man". Plus, the percentage of the nearest movies of   distance < 0.4  
+![image](https://user-images.githubusercontent.com/64103395/179278153-99afe8db-d0a9-42d7-8a41-05910bd65e61.png)  
+STEP4: Displaying a bar graph of the distances of these movies.  
 ![image](https://user-images.githubusercontent.com/64103395/179248646-05d67a32-e647-49ca-9df5-c92ee9264f4f.png)
