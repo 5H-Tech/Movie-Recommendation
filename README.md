@@ -1,5 +1,13 @@
 # Movie-Recommendation
  NLP Project  
+ # Team Members:
+|         Name  | GetHub |
+| ------------- | ------------- |
+| Hady Ehab rgaa  |[HodBossHod](https://github.com/HodBossHod)  |
+| Hady Ahmed Abd-Elsalame  | [HadyAhmed00](https://github.com/HadyAhmed00)  |
+| Hady Atef Sayed  | [hady-o](https://github.com/hady-o)  |
+| Haitham Mahmoud  | [haitham2001](https://github.com/haitham2001)  |
+| Hani Mohamed Sayed  | [HaniASU](https://github.com/HaniASU)  |
 # Introduction  
 The main idea of the project is to select the top 10 similar movies for each movie in the dataset based on the user’s ratings.  
 # Dataset Summary  
