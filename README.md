@@ -3,7 +3,7 @@
  # Team Members:
 |         Name  | GitHub |
 | ------------- | ------------- |
-| Hady Ehab rgaa  |[HodBossHod](https://github.com/HodBossHod)  |
+| Hadi Ehab Ragaa  |[HodBossHod](https://github.com/HodBossHod)  |
 | Hady Ahmed Abd-Elsalame  | [HadyAhmed00](https://github.com/HadyAhmed00)  |
 | Hady Atef Sayed  | [hady-o](https://github.com/hady-o)  |
 | Haitham Mahmoud  | [haitham2001](https://github.com/haitham2001)  |
